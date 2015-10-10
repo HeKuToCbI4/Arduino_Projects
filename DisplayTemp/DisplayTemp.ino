@@ -3,7 +3,7 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_PCD8544.h>
 
-#define DHTPIN 13
+#define DHTPIN 8
 
 
 #define NUMFLAKES 10
