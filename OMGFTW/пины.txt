@@ -1,0 +1,7 @@
+ultrasonic to d4 - 
+frig d5 - echo
+dht to d2
+transmitter to d9
+
+reciever to d7
+thats all folks.
